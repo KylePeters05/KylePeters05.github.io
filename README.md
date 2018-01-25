@@ -16,6 +16,6 @@ During This Semester I did plenty of work on Khan Academy where I found I did my
 
 I was proud of these projects specificly as they took me a bit more time than the other projects to do / figure out. One I did though I felt very achieved. It was a gerat feeling overcomming them. 
 
-**Bold** and _Italic_ and `Code` text
+### Things I Will Be Doing Of In The Future
 
-[Link](url) and ![Image](src)
+In the future I want to look into getting into Internet Security as it will almost always be a job that will be needed, and seems kinda interesting to me. I also wasnt to look into game programming as I've always been a pretty big gamer loving big gaming titles such as Overwatch, Counter Strike, and some smaller titles such as Golf It. I always wanted to try to make my own game that I would like and maybe some others as well. 
